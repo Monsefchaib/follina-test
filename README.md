@@ -1,6 +1,5 @@
 # MS-MSDT "Follina" Attack Vector
 
-> John Hammond | May 30, 2022
 
 --------------
 
